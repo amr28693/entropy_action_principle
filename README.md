@@ -28,7 +28,9 @@ with their respective sections in the Appendices.
   Numerical simulations of the CE Action Principle, reproducing all results in Appendix C.
 
 - `CE_Appendix_D_walkthroughsuite.ipynb`  
-  Information-theoretic Bell correlations and no-Hilbert-space quantum logic, reproducing results in Appendix D.
+  Information-theoretic Bell correlations and no-Hilbert-space quantum logic, reproducing results in Appendix D:
+
+  Appendix D implements an information-theoretic collapse logic to demonstrate how quantum-like correlations can emerge from global feedback between system, measurement choices, and environment at each collapse event ($t_0$). In this model, free choice and physical randomness are real and active within the feedback loop. At each $t_0$, a global information constraint “closes the loop” and enforces conservation, but does not predetermine outcomes or deny local freedom. The resulting correlations do not require action-at-a-distance or classical superdeterminism—instead, they arise from the participatory, dynamically evolving context in which every measurement, environment, and collapse event co-define the outcome. The script illustrates this principle by producing only perfectly correlated outputs (00 or 11), emphasizing the role of global information closure rather than local randomness or nonlocal influence.
 
 ---
 
