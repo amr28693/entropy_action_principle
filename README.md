@@ -81,6 +81,6 @@ If you'd like to use or build on this work please cite the associated preprint:
   author={Anderson M. Rodriguez},
   journal={arXiv preprint},
   year={2025},
-  url={https://arxiv.org/abs/xxxx.xxxxx}
+  url={https://arxiv.org/abs/6670643}
   Orcid={0009-0007-5179-9341}
 }
